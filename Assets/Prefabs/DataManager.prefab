@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentPlayerName: 
-  inputField: {fileID: 2318876428312515511, guid: 061b61a3112154142a53864674701cf0, type: 3}
+  inputField: {fileID: 8891586608256404053, guid: 98dc9c4052ec64246899d752aa775c83, type: 3}
